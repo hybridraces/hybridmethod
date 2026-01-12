@@ -975,7 +975,7 @@
   },
   {
     "id": "challenge-accepted-2026",
-    "image": "https://images.unsplash.com/photo-1521804906057-1df8fdb718b7?w=800&h=800&fit=crop",
+    "image": "https://images.hybridraces.fit/uploads/challenge-accepted-2026.jpg",
     "eventname": "Challenge Accepted",
     "localgym": "No",
     "organizationgym": "Challenge Accepted",
@@ -993,17 +993,17 @@
     "divisions": [
       "Open / Regular"
     ],
-    "ticketpricelow": "70",
-    "ticketpricehigh": "120",
+    "ticketpricelow": "75",
+    "ticketpricehigh": "125",
     "fitnessobstacle": "Fitness",
     "indooroutdoor": "Outdoor",
     "hyroxworkout": "No",
-    "description": "Challenge Accepted (CA) is het nieuwe sportevenement dat plaatsvindt op een historische locatie in Amsterdam, namelijk in het Olympisch Stadion. Een plek waar geschiedenis is geschreven, sportprestaties zijn geleverd en waar deelnemers keer op keer nieuwe uitdagingen aangaan. Hybrid fitness race (8 stations + 7 km running). Festival setting met muziek/foodtrucks; duo‑format; waves per dag",
+    "description": "Challenge Accepted is the 2026 outdoor fitness competition and will take place at one of the coolest locations in Amsterdam: the Olympic Stadium. A combination of strength, fitness, teamwork and a whole lot of fun",
     "instagram": "@challengeaccepted.nl",
     "website": "https://www.challengeaccepted.nl/en",
     "ticketUrl": "https://www.challengeaccepted.nl/en/tickets",
     "workoutWeights": "https://www.challengeaccepted.nl/over-event",
-    "contactEmail": "info@challengeaccepted.nl"
+    "contactEmail": "tom@challengeaccepted.nl"
   },
   {
     "id": "hexafit-fitness-race-haarlem-2026",

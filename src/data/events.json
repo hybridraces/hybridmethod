@@ -1481,5 +1481,74 @@
     "ticketUrl": "https://atleta.cc/e/6QrFGhEZ2tIv",
     "workoutWeights": "https://www.6bloxfit.com/how-it-works",
     "contactEmail": "info@6bloxfit.com"
+},
+{
+    "id": "hybrid-games-oost-2026",
+    "image": "https://images.hybridraces.fit/uploads/hybrid-games-oost-2026.png",
+    "eventname": "Hybrid Games Oost",
+    "localgym": "yes",
+    "organizationgym": "CrossFit Go Personal",
+    "startdate": "2026-03-29",
+    "enddate": "",
+    "location": "Argo Atletiek, Doetinchem",
+    "country": "NL",
+    "coordinates": {
+        "lat": 51.9791674,
+        "lng": 6.3025328
+    },
+    "typerace": [
+        "Solo",
+        "Duo / Buddy",
+        "Relay",
+        "Team",
+        "Other"
+    ],
+    "divisions": [
+        "Open / Regular"
+    ],
+    "ticketpricelow": "30",
+    "ticketpricehigh": "60",
+    "fitnessobstacle": "Fitness",
+    "indooroutdoor": "Outdoor",
+    "hyroxworkout": "Yes",
+    "description": "2nd edition of Hybrid Games Oost! The first hybrid race in the east of the Netherlands brings together the ultimate mix of strength, cardio & mental resilience in one spectacular outdoor race. A unique format featuring 600 meters of off-road forest running and 400 meters on an athletics track. With a total of 8 running laps, you\u2019ll cover 8 km combined with 8 workouts \u2014 divided into cardio, strength, and bodyweight movements. Accessible for everyone, challenging for anyone! Visit our website for more information and secure your early bird ticket now.",
+    "instagram": "@hybridgamesoost",
+    "website": "https://hybridgamesoost.nl",
+    "ticketUrl": "https://www.nowonlinetickets.nl/Shop/Order/SelectTickets",
+    "workoutWeights": "https://www.hybridgamesoost.nl/race-uitleg",
+    "contactEmail": "info@hybridgamesoost.nl"
+},
+{
+    "id": "hyrox-simulation-assen-2026",
+    "image": "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=800&h=800&fit=crop",
+    "eventname": "HYROX Simulation Assen",
+    "localgym": "no",
+    "organizationgym": "Snaak Athlete",
+    "startdate": "2026-01-17",
+    "enddate": "",
+    "location": "Zeilmakerstraat 17, Assen",
+    "country": "NL",
+    "coordinates": {
+        "lat": 53.0121344,
+        "lng": 6.5793877
+    },
+    "typerace": [
+        "Solo",
+        "Duo / Buddy"
+    ],
+    "divisions": [
+        "Open / Regular"
+    ],
+    "ticketpricelow": "25",
+    "ticketpricehigh": "",
+    "fitnessobstacle": "Fitness",
+    "indooroutdoor": "Indoor & Outdoor",
+    "hyroxworkout": "Yes",
+    "description": "Doe een hele HYROX bij ons op 25 oktober!\r\nBen jij klaar voor de uitdaging? Op zaterdag 25 oktober organiseren wij een volledige HYROX Dag bij ons op locatie aan de Zeilmakerstraat 17 in Assen.\r\n\r\nDit is jouw kans om een volledige HYROX (solo of doubles) te lopen. En dat onder wedstrijdomstandigheden \u00e9n met begeleiding van ons!\r\n\r\nHoe ziet de dag er uit?\r\nElke 20 minuten start er een deelnemer of duo. We houden alle tijden nauwkeurig bij en na afloop kijken we samen naar de resultaten. Je krijgt persoonlijke tips en feedback om je prestaties te verbeteren. Dit is ideaal als voorbereiding op HYROX Utrecht, die een maand later plaatsvindt.  En\u2026 als er genoeg aanmeldingen zijn, maken we er een echte wedstrijd van! Na afloop krijgt iedereen een prijs van ons. Of je nu voor de winst gaat, of gewoon meedoet voor de ervaring.\r\n\r\nWe weten dat HYROX-kaarten vaak razendsnel uitverkocht zijn. Daarom is dit ook een mooie kans om toch de volledige ervaring mee te maken, in een motiverende setting met andere sporters.",
+    "instagram": "@snaakathlete",
+    "website": "https://www.snaak050.nl/snaak-athlete",
+    "ticketUrl": "https://www.snaak050.nl/productpagina/hyrox-solo",
+    "workoutWeights": "https://hyroxbenelux.com/about-race/",
+    "contactEmail": "snaak050@hotmail.com"
 }
 ]

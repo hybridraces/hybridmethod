@@ -1550,5 +1550,38 @@
     "ticketUrl": "https://www.snaak050.nl/productpagina/hyrox-solo",
     "workoutWeights": "https://hyroxbenelux.com/about-race/",
     "contactEmail": "snaak050@hotmail.com"
+},
+{
+    "id": "hybrid-achterhoek-2026",
+    "image": "https://images.hybridraces.fit/uploads/hybrid-achterhoek-2026.jpeg",
+    "eventname": "Hybrid Achterhoek",
+    "localgym": "no",
+    "organizationgym": "Hybrid Achterhoek",
+    "startdate": "2026-05-09",
+    "enddate": "",
+    "location": "DRU Industriepark Ulft, SSP-Hal",
+    "country": "NL",
+    "coordinates": {
+        "lat": 0,
+        "lng": 0
+    },
+    "typerace": [
+        "Solo",
+        "Duo / Buddy"
+    ],
+    "divisions": [
+        "Open / Regular"
+    ],
+    "ticketpricelow": "66",
+    "ticketpricehigh": "76",
+    "fitnessobstacle": "Fitness",
+    "indooroutdoor": "Indoor",
+    "hyroxworkout": "No",
+    "description": "HYBRID ACHTERHOEK\r\nThe race that demands everything.\r\n\r\nAn intense hybrid race combining 8 km of running with 8 functional workout stations that test strength, speed, endurance and mental grit.\r\n\r\nWorkout stations:\r\nSkiErg \u2022 Shoulder Press \u2022 Barbell Squats \u2022 Burpee Broad Jumps \u2022 RowErg \u2022 Farmer\u2019s Carry \u2022 Walking Lunges \u2022 BikeErg\r\n\r\nRace solo or as a duo (men, women or mixed).\r\nFast, challenging and uniquely hybrid.\r\n\r\nLocation: DRU Industriepark\r\nRun. Lift. Push. Repeat. Dare to race?",
+    "instagram": "@hybridachterhoek",
+    "website": "https://hybridachterhoek.nl",
+    "ticketUrl": "http://dru-industriepark.nl/agenda/2026/05/hybrid-achterhoek.nl",
+    "workoutWeights": "http://hybridachterhoek/parcours/.nl",
+    "contactEmail": "contact@hybridachterhoek.nl"
 }
 ]

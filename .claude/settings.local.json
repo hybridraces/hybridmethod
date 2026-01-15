@@ -41,7 +41,9 @@
       "Bash(git pull:*)",
       "Bash(git stash:*)",
       "Bash(git checkout:*)",
-      "Bash(node:*)"
+      "Bash(node:*)",
+      "Bash(gh workflow:*)",
+      "Bash(npm ci)"
     ],
     "deny": [],
     "ask": []

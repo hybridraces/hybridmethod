@@ -1559,11 +1559,11 @@
     "organizationgym": "Hybrid Achterhoek",
     "startdate": "2026-05-09",
     "enddate": "",
-    "location": "DRU Industriepark Ulft, SSP-Hal",
+    "location": "SSP-Hal, Ulft",
     "country": "NL",
     "coordinates": {
-        "lat": 0,
-        "lng": 0
+        "lat": 51.89574,
+        "lng": 6.38225
     },
     "typerace": [
         "Solo",
@@ -1583,5 +1583,39 @@
     "ticketUrl": "http://dru-industriepark.nl/agenda/2026/05/hybrid-achterhoek.nl",
     "workoutWeights": "http://hybridachterhoek/parcours/.nl",
     "contactEmail": "contact@hybridachterhoek.nl"
+},
+{
+    "id": "bootcamper-championships-hyrox-simulation-2026",
+    "image": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?q=80&w=2150&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "eventname": "Bootcamper Championships HYROX Simulation",
+    "localgym": "no",
+    "organizationgym": "Bootcamper x HRX Coaching",
+    "startdate": "2026-03-01",
+    "enddate": "",
+    "location": "DEM Atletiek, Beverwijk",
+    "country": "NL",
+    "coordinates": {
+        "lat": 52.4880,
+        "lng": 4.6707
+    },
+    "typerace": [
+        "Solo",
+        "Duo / Buddy"
+    ],
+    "divisions": [
+        "Open / Regular",
+        "Pro / Heavy"
+    ],
+    "ticketpricelow": "35",
+    "ticketpricehigh": "",
+    "fitnessobstacle": "Fitness",
+    "indooroutdoor": "Outdoor",
+    "hyroxworkout": "Yes",
+    "description": "Bootcamper Championships on the 1st of March. \r\n\r\nHalf HYROX or full HYROX simulation. \r\nOpen/pro , solo/double",
+    "instagram": "@hrxcoaching",
+    "website": "https://bootcamper.sportbitapp.nl/web/nl/events/15841",
+    "ticketUrl": "https://bootcamper.sportbitapp.nl/web/nl/events/15841",
+    "workoutWeights": "https://bootcamper.sportbitapp.nl/web/nl/events/15841",
+    "contactEmail": "contact@hrxcoaching.nl"
 }
 ]
